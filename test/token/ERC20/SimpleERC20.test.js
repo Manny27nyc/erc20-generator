@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { BN, expectRevert } = require('@openzeppelin/test-helpers');
 
 const { shouldBehaveLikeERC20 } = require('./behaviours/ERC20.behaviour');

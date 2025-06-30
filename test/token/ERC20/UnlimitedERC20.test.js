@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { BN, ether, expectRevert } = require('@openzeppelin/test-helpers');
 
 const { shouldBehaveLikeOwnable } = require('eth-token-recover/test/access/Ownable.behavior');

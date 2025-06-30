@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { expectRevert, expectEvent } = require('@openzeppelin/test-helpers');
 
 function shouldBehaveLikeRoles ([admin, other, thirdParty]) {

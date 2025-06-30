@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function shouldBehaveLikeGeneratorCopyright (version) {
   describe('should have', function () {
     const _builtOn = {
